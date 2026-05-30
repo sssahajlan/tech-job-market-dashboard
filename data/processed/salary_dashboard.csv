@@ -1,0 +1,111 @@
+job_id,title,role_category,location,min_salary,max_salary,med_salary,avg_salary,pay_period,currency
+3692302089,Data Scientist/ Product Analyst ,Data Science / ML,"San Francisco, CA",70.0,80.0,,75.0,HOURLY,USD
+3693043848,Data Analyst,Data Analyst,"Oklahoma City, OK",35.0,38.0,,36.5,YEARLY,USD
+3693044299,Data Analyst,Data Analyst,"Beaverton, OR",20.0,24.0,,22.0,HOURLY,USD
+3693044310,C++ Software Engineer,Software Engineering,"Peoria, IL",42.0,55.0,,48.5,HOURLY,USD
+3693044317,PL/SQL Developer,Developer,"Houston, TX",53.0,65.0,,59.0,HOURLY,USD
+3693044376,Business Analyst,Business Analyst / BI,"Lyon, MI",30.0,33.0,,31.5,HOURLY,USD
+3693044837,Business Data Analyst,Data Analyst,United States,80.0,85.0,,82.5,HOURLY,USD
+3693045241,Software Engineer [72302],Software Engineering,"Bristol, CT",65.0,75.0,,70.0,HOURLY,USD
+3693046316,Gaming Business Analyst ,Business Analyst / BI,"Bellevue, WA",98.0,99.0,,98.5,YEARLY,USD
+3693046487,Data Analyst,Data Analyst,"Oklahoma City, OK",30.0,35.0,,32.5,HOURLY,USD
+3693047703,Machine Learning Engineer,Data Science / ML,San Francisco Bay Area,180000.0,195000.0,,187500.0,YEARLY,USD
+3693048882,Advisor Business Analyst,Business Analyst / BI,"Gainesville, MS",77100.0,110200.0,,93650.0,YEARLY,USD
+3693050467,Software Engineer,Software Engineering,United States,80000.0,90000.0,,85000.0,YEARLY,USD
+3693050917,Data Analyst,Data Analyst,"Pittsburgh, PA",70.0,70.0,,70.0,HOURLY,USD
+3693052149,Marketing Analytics Coordinator,Analytics,"Nashville, TN",63000.0,70000.0,,66500.0,YEARLY,USD
+3693052152,Business Intelligence Analyst,Business Analyst / BI,"Oklahoma City, OK",50000.0,60000.0,,55000.0,YEARLY,USD
+3693052511,DHT - Front-End Software Engineer,Software Engineering,"Menlo Park, CA",160000.0,160000.0,,160000.0,YEARLY,USD
+3693064864,Business Analyst V,Business Analyst / BI,"San Francisco, CA",65.0,70.0,,67.5,HOURLY,USD
+3693069014,Data Analytics Specialist,Analytics,"Irvine, CA",50.0,50.0,,50.0,HOURLY,USD
+3693069263,Software Engineer I - Remote,Software Engineering,"Austin, TX",77200.0,143400.0,,110300.0,YEARLY,USD
+3693069638,Google Analytics Analyst,Analytics,"McLean, VA",120000.0,130000.0,,125000.0,YEARLY,USD
+3693072155,"Business Analyst, Relay Mobile",Business Analyst / BI,"Bellevue, WA",59500.0,143100.0,,101300.0,YEARLY,USD
+3693074335,Database Analyst,Other Tech/Data,"San Francisco, CA",85440.0,128200.0,,106820.0,YEARLY,USD
+3693581751,"Specialist, Investment Analytics",Analytics,"Charlotte, NC",51900.0,89800.0,,70850.0,YEARLY,USD
+3693583801,"Deputy Chief Product Group, Software Engineer, UI/UX &amp; Agile",Software Engineering,"New York, NY",108638.0,173373.0,,141005.5,YEARLY,USD
+3693586589,Frontend Web Developer (Machine Learning),Data Science / ML,United States,77.0,82.0,,79.5,HOURLY,USD
+3693586635,Software Engineer,Software Engineering,"Jessup, MD",47.0,52.5,,49.75,HOURLY,USD
+3693587183,"Analyst, Vendor Analytics",Analytics,"San Diego, CA",139400.0,209100.0,,174250.0,YEARLY,USD
+3693588071,Software Engineer (SE-2301),Software Engineering,"San Francisco, CA",136760.0,166420.0,,151590.0,YEARLY,USD
+3693592002,Software Engineer,Software Engineering,United States,35.0,50.0,,42.5,HOURLY,USD
+3693597495,Business Intelligence Engineer,Business Analyst / BI,"Bellevue, WA",79600.0,185000.0,,132300.0,YEARLY,USD
+3693599929,Software Engineer,Software Engineering,"New York, NY",300000.0,450000.0,,375000.0,YEARLY,USD
+3693599984,Entry Level Software Sales Executive,Other Tech/Data,Buffalo-Niagara Falls Area,60000.0,85000.0,,72500.0,YEARLY,USD
+3694100577,Full Stack Software Engineer (Java),Software Engineering,United States,100000.0,125000.0,,112500.0,YEARLY,USD
+3694101347,Software Engineer V-Full Stack (Strong Front-End),Software Engineering,United States,130000.0,160000.0,,145000.0,YEARLY,USD
+3694101447,Python Developer,Developer,"McLean, VA",80.0,80.0,,80.0,HOURLY,USD
+3694102363,Software Engineering Supervisor,Software Engineering,United States,120.0,150.0,,135.0,YEARLY,USD
+3694102818,Business Analyst - SAP HR Payroll,Business Analyst / BI,"Austin, TX",45.0,50.0,,47.5,HOURLY,USD
+3694103169,Human Resources Business Analyst,Business Analyst / BI,New York City Metropolitan Area,85000.0,95000.0,,90000.0,YEARLY,USD
+3694103473,Product Data Analyst,Data Analyst,United States,108000.0,157000.0,,132500.0,YEARLY,USD
+3694103812,Software Engineer (PERN Stack),Software Engineering,"Atlanta, GA",140000.0,160000.0,,150000.0,YEARLY,USD
+3694104115,Embedded Software Engineer,Software Engineering,"Detroit, MI",140000.0,170000.0,,155000.0,YEARLY,USD
+3694104211,ERP Business Analyst,Business Analyst / BI,Buffalo-Niagara Falls Area,55000.0,80000.0,,67500.0,YEARLY,USD
+3694105420,Business Analyst,Business Analyst / BI,"City of Industry, CA",73000.0,73000.0,,73000.0,YEARLY,USD
+3694107197,MID-LEVEL MS D365 F&O SOFTWARE ENGINEER (U.S. REMOTE),Software Engineering,United States,110000.0,140000.0,,125000.0,YEARLY,USD
+3694115777,Business Analyst,Business Analyst / BI,"Austin, Texas Metropolitan Area",40.0,50.0,,45.0,HOURLY,USD
+3694122335,Business Intelligence Developer,Business Analyst / BI,"Florida, United States",40.0,48.0,,44.0,HOURLY,USD
+3697350743,Application Software Developer lll (Hybrid),Software Engineering,"Chicago, IL",86000.0,145000.0,,115500.0,YEARLY,USD
+3697364133,Java Developer,Developer,United States,90000.0,115000.0,,102500.0,YEARLY,USD
+3697377900,Machine Learning Scientist I,Data Science / ML,"Portland, OR",100500.0,164000.0,,132250.0,YEARLY,USD
+3697379856,Machine Learning Scientist I,Data Science / ML,"Utah, United States",100500.0,164000.0,,132250.0,YEARLY,USD
+3697382316,"Data Analyst, Real-Time Supply Management (Hybrid)",Data Analyst,"San Francisco, CA",128000.0,142000.0,,135000.0,YEARLY,USD
+3697387964,Data Scientist,Data Science / ML,"Chantilly, VA",73100.0,166000.0,,119550.0,YEARLY,USD
+3697390531,Data Scientist,Data Science / ML,"McLean, VA",73100.0,166000.0,,119550.0,YEARLY,USD
+3697391430,Data Scientist,Data Science / ML,"Norfolk, VA",73000.0,166000.0,,119500.0,YEARLY,USD
+3697394059,Salesforce Business Analyst,Business Analyst / BI,"Melbourne, FL",52200.0,119000.0,,85600.0,YEARLY,USD
+3697394484,Software Engineer (Electrical Power Systems Software Engineer) (multiple position),Software Engineering,"Bothell, WA",127400.0,140760.0,,134080.0,YEARLY,USD
+3697395126,Software Engineer - Content Systems,Software Engineering,United States,114000.0,139700.0,,126850.0,YEARLY,USD
+3697399519,ServiceNow CMDB Business Analyst,Business Analyst / BI,"Seattle, WA",110000.0,120000.0,,115000.0,YEARLY,USD
+3698000140,Machine Learning Engineer - Notifications,Data Science / ML,"San Francisco, CA",186000.0,262000.0,,224000.0,YEARLY,USD
+3698001169,Oracle Business Intelligence Analyst,Business Analyst / BI,"Long Beach, CA",124800.0,131601.0,,128200.5,YEARLY,USD
+3699053783,Pharmacy Business & Analytics Coordinator,Analytics,"New York, NY",58500.0,73912.8,,66206.4,YEARLY,USD
+3699056650,Salesforce Business Analyst (Service Focused),Business Analyst / BI,"Sunnyvale, CA",120000.0,130000.0,,125000.0,YEARLY,USD
+3699056934,Genesys Software Engineer - Nationwide,Software Engineering,"Massachusetts, United States",88500.0,126400.0,,107450.0,YEARLY,USD
+3699061258,Genesys Software Engineer - Nationwide,Software Engineering,United States,88500.0,126400.0,,107450.0,YEARLY,USD
+3699075720,"Data Center Technician, Global Server Operations, Machine Learning",Data Science / ML,"Bridgeport, AL",63000.0,105000.0,,84000.0,YEARLY,USD
+3699085103,Data Scientist,Data Science / ML,"Idaho Falls, ID",93492.0,177336.0,,135414.0,YEARLY,USD
+3699086066,Software Engineer,Software Engineering,"Chantilly, VA",81800.0,186000.0,,133900.0,YEARLY,USD
+3699087053,Embedded Software Engineer,Software Engineering,"Alexandria, VA",81800.0,186000.0,,133900.0,YEARLY,USD
+3699089166,Software Engineer,Software Engineering,"Denver, CO",40.0,45.0,,42.5,HOURLY,USD
+3699089261,"Full Stack Software Engineer, ERP",Software Engineering,United States,135000.0,175000.0,,155000.0,YEARLY,USD
+3699405298,Healthcare Data Analyst,Data Analyst,"San Diego, CA",62000.0,99200.0,,80600.0,YEARLY,USD
+3699412356,Machine Learning Engineer 5,Data Science / ML,"San Jose, CA",141100.0,281700.0,,211400.0,YEARLY,USD
+3699412357,Machine Learning Engineer 5,Data Science / ML,"San Francisco, CA",141100.0,281700.0,,211400.0,YEARLY,USD
+3699413326,ERP Business Analyst,Business Analyst / BI,"Norwood, MA",80000.0,120000.0,,100000.0,YEARLY,USD
+3699415583,"President, Platforms and Software Engineering",Software Engineering,"Carlsbad, CA",510000.0,690000.0,,600000.0,YEARLY,USD
+3699417053,Software Engineer,Software Engineering,"Santa Barbara, CA",106000.0,125000.0,,115500.0,YEARLY,USD
+3699426457,"Software Engineer, Global Payment",Software Engineering,"San Jose, CA",136800.0,205000.0,,170900.0,YEARLY,USD
+3700554640,Full-Stack Software Engineer,Software Engineering,"San Francisco, CA",106400.0,203100.0,,154750.0,YEARLY,USD
+3701154588,Eligibility Data Analyst # 3219,Data Analyst,"Menlo Park, CA",88000.0,104000.0,,96000.0,YEARLY,USD
+3701196929,Master Data Analyst ,Data Analyst,"Akron, OH",54653.0,81979.0,,68316.0,YEARLY,USD
+3701197926,Angular Software Engineer,Software Engineering,United States,70.0,70.0,,70.0,HOURLY,USD
+3701198791,FPGA Software Engineer,Software Engineering,"New York, NY",150000.0,250000.0,,200000.0,YEARLY,USD
+3701301955,Business Intelligence Analyst,Business Analyst / BI,"Mountain View, CA",67.0,77.0,,72.0,HOURLY,USD
+3701302764,Business Intelligence Analyst,Business Analyst / BI,"San Diego, CA",67.0,77.0,,72.0,HOURLY,USD
+3701303080,"Wholesale Business Analyst - Montvale, NJ (Hybrid)",Business Analyst / BI,"Montvale, NJ",75000.0,75000.0,,75000.0,YEARLY,USD
+3701305817,Business Analyst,Business Analyst / BI,"Chicago, IL",90000.0,120000.0,,105000.0,YEARLY,USD
+3701305967,Business Intelligence Analyst,Business Analyst / BI,"Orlando, FL",30.0,38.0,,34.0,HOURLY,USD
+3701308803,Data Analyst - Remote / Contract,Data Analyst,"Palo Alto, CA",60.0,95.0,,77.5,HOURLY,USD
+3701314896,Full Stack Software Developer (React & Redux) - 100% Remote,Software Engineering,United States,50.0,60.0,,55.0,HOURLY,USD
+3701315349,Software Engineer,Software Engineering,"Corinne, UT",90400.0,168000.0,,129200.0,YEARLY,USD
+3701315406,"RPA Developer, Business Operations & Data Analytics",Analytics,New York City Metropolitan Area,105000.0,125000.0,,115000.0,YEARLY,USD
+3701315560,Software Engineer - Database Engineering (San Mateo),Software Engineering,"San Mateo, CA",150000.0,218500.0,,184250.0,YEARLY,USD
+3701318091,Software Engineer - Database Engineering (Seattle),Software Engineering,"Bellevue, WA",150000.0,218500.0,,184250.0,YEARLY,USD
+3701319093,Business Analyst – Entry Level,Business Analyst / BI,"Charleston, SC",48400.0,79800.0,,64100.0,YEARLY,USD
+3701320912,"Associate Software Engineer (Python, API, Serverless)",Software Engineering,"New York, NY",60000.0,90000.0,,75000.0,YEARLY,USD
+3701321355,Proposal Coordinator / Business Analyst,Business Analyst / BI,United States,50000.0,60000.0,,55000.0,YEARLY,USD
+3701322385,Data Analyst ,Data Analyst,"Manhattan, NY",68.0,74.0,,71.0,HOURLY,USD
+3701322816,Software Engineer,Software Engineering,"New York, NY",105000.0,145000.0,,125000.0,YEARLY,USD
+3701323737,Business Analyst/Data Remediation,Business Analyst / BI,"Charlotte, NC",35.0,40.0,,37.5,HOURLY,USD
+3701327313,Business Analytics Consultant- Revenue Cycle,Analytics,United States,90000.0,100000.0,,95000.0,YEARLY,USD
+3701359585,RCM Data Analyst,Data Analyst,"Burlington, NC",45594.0,87000.0,,66297.0,YEARLY,USD
+3701361733,Medicare Enrollment Business Analyst,Business Analyst / BI,United States,51000.0,77000.0,,64000.0,YEARLY,USD
+3701363755,Business Analyst,Business Analyst / BI,United States,78000.0,118000.0,,98000.0,YEARLY,USD
+3701365741,HR Intern: Global DEI Analytics,Analytics,"Atlanta, GA",19.0,24.0,,21.5,HOURLY,USD
+3701368586,Software Engineer Graduate (TikTok Short Video) - 2024 Start (BS/MS/PhD),Software Engineering,"Seattle, WA",104500.0,139650.0,,122075.0,YEARLY,USD
+3701369719,"Software Engineer, Machine Learning - Reality Labs",Data Science / ML,"Burlingame, CA",172994.0,241000.0,,206997.0,YEARLY,USD
+3701369746,Data Scientist / Operations Research Analyst,Data Science / ML,"Colorado Springs, CO",100000.0,160000.0,,130000.0,YEARLY,USD
+3701371687,"Software Engineer, Machine Learning - Reality Labs",Data Science / ML,"Boston, MA",172994.0,241000.0,,206997.0,YEARLY,USD
+3701372446,OCM Data Analyst (Remote),Data Analyst,"Fairfax, VA",85000.0,88000.0,,86500.0,YEARLY,USD

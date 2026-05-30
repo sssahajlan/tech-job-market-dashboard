@@ -1,0 +1,144 @@
+role_category,technical_skill,job_count
+Analytics,Communication,14
+Analytics,SQL,10
+Analytics,Data Visualization,9
+Analytics,Power BI,9
+Analytics,Python,9
+Analytics,Database,8
+Analytics,Tableau,8
+Analytics,Excel,6
+Analytics,Statistics,5
+Analytics,ETL,4
+Analytics,Java,4
+Analytics,Problem Solving,4
+Analytics,Azure,3
+Analytics,Data Cleaning,3
+Analytics,PowerPoint,3
+Analytics,Snowflake,3
+Analytics,Alteryx,2
+Analytics,Git,2
+Analytics,JavaScript,2
+Analytics,AWS,1
+Analytics,Google Cloud,1
+Analytics,Looker,1
+Analytics,Machine Learning,1
+Analytics,R,1
+Analytics,SAS,1
+Business Analyst / BI,Communication,50
+Business Analyst / BI,Excel,28
+Business Analyst / BI,SQL,24
+Business Analyst / BI,Data Visualization,19
+Business Analyst / BI,Problem Solving,18
+Business Analyst / BI,Database,17
+Business Analyst / BI,PowerPoint,12
+Business Analyst / BI,Statistics,11
+Business Analyst / BI,Power BI,10
+Business Analyst / BI,Python,8
+Business Analyst / BI,Tableau,8
+Business Analyst / BI,Azure,6
+Business Analyst / BI,ETL,6
+Business Analyst / BI,AWS,4
+Business Analyst / BI,Alteryx,2
+Business Analyst / BI,Machine Learning,2
+Business Analyst / BI,Data Cleaning,1
+Business Analyst / BI,Git,1
+Business Analyst / BI,Java,1
+Business Analyst / BI,R,1
+Business Analyst / BI,SAS,1
+Data Analyst,Communication,15
+Data Analyst,SQL,15
+Data Analyst,Excel,11
+Data Analyst,Data Visualization,10
+Data Analyst,Database,9
+Data Analyst,Problem Solving,9
+Data Analyst,Python,7
+Data Analyst,Statistics,6
+Data Analyst,Tableau,6
+Data Analyst,Power BI,5
+Data Analyst,ETL,4
+Data Analyst,Alteryx,3
+Data Analyst,Data Cleaning,3
+Data Analyst,SAS,3
+Data Analyst,Azure,2
+Data Analyst,PowerPoint,2
+Data Analyst,BigQuery,1
+Data Analyst,JavaScript,1
+Data Analyst,R,1
+Data Analyst,SPSS,1
+Data Analyst,Snowflake,1
+Data Science / ML,Python,26
+Data Science / ML,Machine Learning,24
+Data Science / ML,Statistics,19
+Data Science / ML,SQL,15
+Data Science / ML,Data Visualization,11
+Data Science / ML,Communication,10
+Data Science / ML,AWS,9
+Data Science / ML,Pandas,7
+Data Science / ML,Data Cleaning,6
+Data Science / ML,Database,6
+Data Science / ML,Java,6
+Data Science / ML,NumPy,6
+Data Science / ML,Tableau,4
+Data Science / ML,Azure,3
+Data Science / ML,JavaScript,3
+Data Science / ML,SAS,3
+Data Science / ML,ETL,2
+Data Science / ML,Google Cloud,2
+Data Science / ML,Problem Solving,2
+Data Science / ML,SPSS,2
+Data Science / ML,Alteryx,1
+Data Science / ML,Git,1
+Developer,SQL,15
+Developer,Java,14
+Developer,Communication,12
+Developer,Database,11
+Developer,Python,8
+Developer,Git,6
+Developer,JavaScript,5
+Developer,Problem Solving,4
+Developer,AWS,3
+Developer,Azure,3
+Developer,NumPy,3
+Developer,Pandas,3
+Developer,Data Cleaning,2
+Developer,Data Visualization,2
+Developer,Google Cloud,2
+Developer,Snowflake,2
+Developer,ETL,1
+Developer,Excel,1
+Developer,Machine Learning,1
+Developer,Power BI,1
+Developer,Statistics,1
+Developer,Tableau,1
+Other Tech/Data,Communication,2
+Other Tech/Data,Data Cleaning,1
+Other Tech/Data,Data Visualization,1
+Other Tech/Data,Database,1
+Other Tech/Data,PowerPoint,1
+Other Tech/Data,Statistics,1
+Other Tech/Data,Tableau,1
+Software Engineering,Communication,51
+Software Engineering,Database,41
+Software Engineering,Java,37
+Software Engineering,SQL,36
+Software Engineering,JavaScript,33
+Software Engineering,Python,31
+Software Engineering,Git,27
+Software Engineering,AWS,22
+Software Engineering,Problem Solving,14
+Software Engineering,Azure,11
+Software Engineering,Google Cloud,7
+Software Engineering,Machine Learning,7
+Software Engineering,Statistics,6
+Software Engineering,Excel,5
+Software Engineering,Data Visualization,4
+Software Engineering,ETL,3
+Software Engineering,NumPy,3
+Software Engineering,Pandas,3
+Software Engineering,Power BI,3
+Software Engineering,Snowflake,2
+Software Engineering,BigQuery,1
+Software Engineering,Data Cleaning,1
+Software Engineering,PowerPoint,1
+Software Engineering,SAS,1
+Software Engineering,Tableau,1

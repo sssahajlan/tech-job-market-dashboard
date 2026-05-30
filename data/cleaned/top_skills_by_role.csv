@@ -1,0 +1,84 @@
+role_category,skill_abr,skill_count
+Analytics,IT,11
+Analytics,ANLS,8
+Analytics,FIN,3
+Analytics,RSCH,3
+Analytics,ACCT,2
+Analytics,MRKT,2
+Analytics,ADVR,1
+Analytics,BD,1
+Analytics,CNSL,1
+Analytics,ENG,1
+Analytics,HR,1
+Analytics,LGL,1
+Analytics,OTHR,1
+Analytics,SALE,1
+Analytics,STRA,1
+Business Analyst / BI,IT,71
+Business Analyst / BI,ANLS,46
+Business Analyst / BI,RSCH,38
+Business Analyst / BI,ENG,7
+Business Analyst / BI,SALE,7
+Business Analyst / BI,BD,6
+Business Analyst / BI,STRA,6
+Business Analyst / BI,CNSL,4
+Business Analyst / BI,GENB,3
+Business Analyst / BI,PRJM,3
+Business Analyst / BI,HR,2
+Business Analyst / BI,MGMT,2
+Business Analyst / BI,MRKT,2
+Business Analyst / BI,OTHR,2
+Business Analyst / BI,ADM,1
+Business Analyst / BI,FIN,1
+Business Analyst / BI,MNFC,1
+Business Analyst / BI,PRDM,1
+Data Analyst,IT,22
+Data Analyst,ANLS,3
+Data Analyst,MGMT,2
+Data Analyst,PRJM,2
+Data Analyst,QA,2
+Data Analyst,CNSL,1
+Data Analyst,EDU,1
+Data Analyst,ENG,1
+Data Analyst,FIN,1
+Data Analyst,MNFC,1
+Data Analyst,TRNG,1
+Data Science / ML,IT,26
+Data Science / ML,ENG,24
+Data Science / ML,OTHR,2
+Data Science / ML,ANLS,1
+Data Science / ML,BD,1
+Data Science / ML,CNSL,1
+Data Science / ML,EDU,1
+Data Science / ML,PRDM,1
+Data Science / ML,PRJM,1
+Data Science / ML,QA,1
+Data Science / ML,SALE,1
+Data Science / ML,SCI,1
+Data Science / ML,STRA,1
+Developer,IT,20
+Developer,ENG,14
+Developer,DSGN,1
+Developer,MRKT,1
+Developer,PR,1
+Developer,WRT,1
+Other Tech/Data,BD,1
+Other Tech/Data,GENB,1
+Other Tech/Data,IT,1
+Other Tech/Data,SALE,1
+Software Engineering,IT,84
+Software Engineering,ENG,73
+Software Engineering,CNSL,4
+Software Engineering,QA,4
+Software Engineering,DSGN,3
+Software Engineering,FIN,3
+Software Engineering,PRDM,2
+Software Engineering,STRA,2
+Software Engineering,ART,1
+Software Engineering,BD,1
+Software Engineering,MGMT,1
+Software Engineering,MNFC,1
+Software Engineering,MRKT,1
+Software Engineering,PRJM,1
+Software Engineering,RSCH,1
+Software Engineering,SALE,1
